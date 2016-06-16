@@ -1,0 +1,66 @@
+﻿[
+    {
+        "$id": "1",
+        "searchCriteria": {
+            "$id": "2",
+            "id": 5,
+            "url": "http://en.wikipedia.org/wiki/Google_Chrome",
+            "pageLocator": "//*[@id='mw - content - text']/table[1]/tbody/tr[4]/td/p[1]/text()",
+            "versionRegex": "(\\d+[\\/\\d. ]*|\\d)"
+        },
+        "id": 5,
+        "name": "Chrome",
+        "os": "Windows",
+        "currentVersion": "43.12.25",
+        "lastVersionCheck": "2015-10-04T16:32:52.81",
+        "versionCheckEnabled": true
+    },
+    {
+        "$id": "3",
+        "searchCriteria": {
+            "$id": "4",
+            "id": 6,
+            "url": "http://en.wikipedia.org/wiki/Firefox",
+            "pageLocator": "//*[@id='mw-content-text']/table[1]/tbody/tr[6]/td/div/ul/li[1]/text()",
+            "versionRegex": "(\\d+[\\/\\d. ]*|\\d)"
+        },
+        "id": 6,
+        "name": "Firefox",
+        "os": "Windows",
+        "currentVersion": "38.6521",
+        "lastVersionCheck": "2015-10-04T16:32:52.81",
+        "versionCheckEnabled": true
+    },
+    {
+        "$id": "5",
+        "searchCriteria": {
+            "$id": "6",
+            "id": 7,
+            "url": "http://en.wikipedia.org/wiki/Internet_Explorer",
+            "pageLocator": "//*[@id='mw - content - text']/table[1]/tbody/tr[5]/td/p/text()",
+            "versionRegex": "(\\d+[\\/\\d. ]*|\\d)"
+        },
+        "id": 7,
+        "name": "IE",
+        "os": "Windows",
+        "currentVersion": "11.0.1",
+        "lastVersionCheck": "2015-10-04T16:32:52.81",
+        "versionCheckEnabled": true
+    },
+    {
+        "$id": "7",
+        "searchCriteria": {
+            "$id": "8",
+            "id": 8,
+            "url": "http://en.wikipedia.org/wiki/Safari_(web_browser)",
+            "pageLocator": "//*[@id='mw - content - text']/table[1]/tbody/tr[5]/td/p[1]/text()",
+            "versionRegex": "(\\d+[\\/\\d. ]*|\\d)"
+        },
+        "id": 8,
+        "name": "Safari",
+        "os": "OSX 10.10",
+        "currentVersion": "8.0.7",
+        "lastVersionCheck": "2015-08-04T16:32:52",
+        "versionCheckEnabled": true
+    }
+]

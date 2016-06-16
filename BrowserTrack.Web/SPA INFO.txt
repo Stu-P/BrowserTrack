@@ -1,0 +1,25 @@
+﻿http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
+
+http://www.peterbe.com/plog/promises-with-$http
+http://breeze.github.io/doc-samples/todo-angular.html
+
+
+
+http://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-web-api#enable-cors
+
+
+
+
+authentication
+http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/
+http://bitoftech.net/2014/06/09/angularjs-token-authentication-using-asp-net-web-api-2-owin-asp-net-identity/
+http://bitoftech.net/2015/01/21/asp-net-identity-2-with-asp-net-web-api-2-accounts-management/
+
+
+
+{
+    "email": "stu@email.test",
+    "userName": "stutest",
+    "password":"Password12",
+    "confirmPassword":"Password12"
+}

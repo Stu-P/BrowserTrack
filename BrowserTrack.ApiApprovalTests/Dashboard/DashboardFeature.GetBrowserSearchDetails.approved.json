@@ -1,0 +1,16 @@
+﻿{
+    "$id": "1",
+    "searchCriteria": {
+        "$id": "2",
+        "id": 7,
+        "url": "http://en.wikipedia.org/wiki/Internet_Explorer",
+        "pageLocator": "//*[@id='mw - content - text']/table[1]/tbody/tr[5]/td/p/text()",
+        "versionRegex": "(\\d+[\\/\\d. ]*|\\d)"
+    },
+    "id": 7,
+    "name": "IE",
+    "os": "Windows",
+    "currentVersion": "11.0.1",
+    "lastVersionCheck": "2015-10-04T16:32:52.81",
+    "versionCheckEnabled": true
+}

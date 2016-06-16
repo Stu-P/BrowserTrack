@@ -1,0 +1,10 @@
+﻿https://ruhul.wordpress.com/2015/02/09/access-you-api-fluently-using-bolt-restclient/
+
+https://ruhul.wordpress.com/2015/01/14/end-to-end-testing-of-web-api-2-using-owin-and-specflow/
+
+https://github.com/Moq/moq4/wiki/Quickstart
+http://www.developerhandbook.com/unit-testing/writing-unit-tests-with-nunit-and-moq/
+
+
+Moq + DataContext
+https://msdn.microsoft.com/en-us/library/dn314429.aspx

@@ -19,10 +19,8 @@ namespace BrowserTrack.WebApi.Services
             if (enquiry == null)
                 return MailSentStatus.Failed;
 
-#if DEBUG  
             // Allow UI test to simulate a failure
             if (enquiry.FirstName == "FAIL") return MailSentStatus.Failed;
-#endif
 
             if (TimeBetween(DateTime.Now, startOfDay, endOfDay))
                 return MailSentStatus.OK;

@@ -25,9 +25,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8F62C9
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi.ApprovalTests", "BrowserTrack.ApiApprovalTests\BrowserTrack.WebApi.ApprovalTests.csproj", "{8B9DD756-A764-43E9-B1D2-DABDA5E817E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi.ApprovalTests", "BrowserTrack.WebApi.ApprovalTests\BrowserTrack.WebApi.ApprovalTests.csproj", "{8B9DD756-A764-43E9-B1D2-DABDA5E817E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi.UnitTests", "BrowserTrack.WebApiUnitTests\BrowserTrack.WebApi.UnitTests.csproj", "{8415ACA1-AD31-4492-A5AF-8B9E005B3374}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi.UnitTests", "BrowserTrack.WebApi.UnitTests\BrowserTrack.WebApi.UnitTests.csproj", "{8415ACA1-AD31-4492-A5AF-8B9E005B3374}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.Data.UnitTests", "BrowserTrack.Data.UnitTests\BrowserTrack.Data.UnitTests.csproj", "{53B6E3C0-11E3-4C7A-9D86-FD6A5CF43910}"
 EndProject

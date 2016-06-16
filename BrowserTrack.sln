@@ -18,13 +18,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi", "BrowserTrack.WebApi\BrowserTrack.WebApi.csproj", "{3B7B64BF-B5FC-43F8-8EB5-E9B07EC4BCE5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8F62C998-8B6A-471B-8CBE-A91DA4293DB0}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi.ApprovalTests", "BrowserTrack.WebApi.ApprovalTests\BrowserTrack.WebApi.ApprovalTests.csproj", "{8B9DD756-A764-43E9-B1D2-DABDA5E817E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTrack.WebApi.UnitTests", "BrowserTrack.WebApi.UnitTests\BrowserTrack.WebApi.UnitTests.csproj", "{8415ACA1-AD31-4492-A5AF-8B9E005B3374}"

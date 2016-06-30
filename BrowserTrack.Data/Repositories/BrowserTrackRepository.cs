@@ -48,6 +48,7 @@ namespace BrowserTrack.Data.Repositories
         public void Update(Browser browser)
         {
             _context.Entry(browser).State = System.Data.Entity.EntityState.Modified;
+            _context.Entry(browser.SearchCriteria).State = System.Data.Entity.EntityState.Modified;
         }
 
 
